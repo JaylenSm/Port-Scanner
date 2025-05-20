@@ -45,7 +45,7 @@ For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829
 
 # Installation
 
-For this tool to function properly both files will need to be installed from the dedicated folder for the source code ("src/"). They will need to be installed in the same directory, in a way a Pythonic interpreter can reach them. Python3 will need to be installed along with scapy for the tool to even open. Make sure the tool is being ran with admin privileges or in a way where direct admin privileges are not necessary. 
+For this tool to function properly both files will need to be installed from the dedicated folder for the source code ("src/"). They will need to be installed in the same directory, in a way a Pythonic interpreter can reach them. Python3 will need to be installed along with scapy for the tool to even open. Make sure the tool is being ran with admin privileges or in a way where direct admin privileges are not necessary. For the tool to function it has to be ran via the frontend (python3 frontend_port_scanner.py).
 
 
 ### 🔖 Tags
